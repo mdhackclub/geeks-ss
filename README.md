@@ -2,7 +2,7 @@
 
 Hi, thanks for using Geeks SS. ShadowSocks is a modified version of Socks5, which is a proxy tool. With Geeks SS, you can easily disguise yourself as a server hosted by us, without leaking your real device information including IP addresses and possibly geolocation. 
 
- **You are encouraged to use Geeks SS to: ** 
+ **You are encouraged to use Geeks SS to:** 
 
 - Work on your individual or collaborative projects
 - Create a fake LAN network and collaborate as if you are in the same WiFi
@@ -23,11 +23,8 @@ You may do anything on the SS. You can even torrent, but that's not recommended 
 
 This project is currently fully funded and maintained by Mingjie. Donations appreciated - cash or PayPal accepted. If you run into any problem while using this service, talk to Mingjie.
 
-	Disclaimer:
-	ShadowSocks is a project of @clowwindy. License vary. Visit shadowsocks.org for more distribution information and license information.
-	
-	The server may go down at any time either because of manual error or third party error. Mingjie and Vultr do not hold any responsibility to any of the information demaged because of the downtime. Use at your own risk. 
-	
-	Your IP address may not be completely safe. Others on te same SS server may br able to see your information. Again, use at your own risk.
-	
-	Documentation <c>2017 Mingjie Jiang
+Disclaimer:
+ShadowSocks is a project of @clowwindy. License vary. Visit shadowsocks.org for more distribution information and license information.
+The server may go down at any time either because of manual error or third party error. Mingjie and Vultr do not hold any responsibility to any of the information demaged because of the downtime. Use at your own risk. 
+Your IP address may not be completely safe. Others on te same SS server may br able to see your information. Again, use at your own risk.
+Documentation ©2017 Mingjie Jiang
