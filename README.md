@@ -9,7 +9,7 @@ Hi, thanks for using Geeks SS. ShadowSocks is a modified version of Socks5, whic
 - Visit sketchy or suspicious websites that you don't fully trust (This is not recommended to try on your real machine - you can create a virtual machine to do that)
 - Work on whatever is legal and appropriate 
 
- **However, you cannot use Geeks SS to:** 
+**However, you cannot use Geeks SS to:** 
 
 - View, create, or contribute to any illegal or inappropriate information
 - Bypass school network censorship - don't try, it won't work. We will figure out a way.
