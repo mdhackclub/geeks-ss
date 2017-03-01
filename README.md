@@ -27,12 +27,12 @@ This project is currently fully funded and maintained by Mingjie. Donations appr
 
 **Download Client:**
 
-- Windows(x86/64): https://github.com/shadowsocks/shadowsocks-windows/releases
-- Android: https://play.google.com/store/apps/details?id=com.github.shadowsocks
-- Mac OS X: https://github.com/shadowsocks/ShadowsocksX-NG/releases
-- Linux Distros: https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation
+- Windows(x86/64): [https://github.com/shadowsocks/shadowsocks-windows/releases](https://github.com/shadowsocks/shadowsocks-windows/releases)
+- Android: [https://play.google.com/store/apps/details?id=com.github.shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+- Mac OS X: [https://github.com/shadowsocks/ShadowsocksX-NG/releases](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+- Linux Distros: [https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation](https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation)
 - Cross Platform Pip: `pip install shadowsocks`
-- iOS ($6.99): https://itunes.apple.com/app/apple-store/id1070901416?mt=8
+- iOS ($6.99): [https://itunes.apple.com/app/apple-store/id1070901416?mt=8](https://itunes.apple.com/app/apple-store/id1070901416?mt=8)
 - Windows Phones are not yet supported.
 
 Disclaimer:
