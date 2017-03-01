@@ -1,5 +1,7 @@
 # MoCo Geeks ShadowSocks Service Usage Guidelines
 
+Scroll to bottom for downloads.
+
 Hi, thanks for using Geeks SS. ShadowSocks is a modified version of Socks5, which is a proxy tool. With Geeks SS, you can easily disguise yourself as a server hosted by us, without leaking your real device information including IP addresses and possibly geolocation. 
 
  **You are encouraged to use Geeks SS to:** 
@@ -23,8 +25,19 @@ You may do anything on the SS. You can even torrent, but that's not recommended 
 
 This project is currently fully funded and maintained by Mingjie. Donations appreciated - cash or PayPal accepted. If you run into any problem while using this service, talk to Mingjie.
 
+**Download Client:**
+
+- Windows(x86/64): https://github.com/shadowsocks/shadowsocks-windows/releases
+- Android: https://play.google.com/store/apps/details?id=com.github.shadowsocks
+- Mac OS X: https://github.com/shadowsocks/ShadowsocksX-NG/releases
+- Linux Distros: https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation
+- Cross Platform Pip: `pip install shadowsocks`
+- iOS ($6.99): https://itunes.apple.com/app/apple-store/id1070901416?mt=8
+- Windows Phones are not yet supported.
+
 Disclaimer:
 ShadowSocks is a project of @clowwindy. License vary. Visit shadowsocks.org for more distribution information and license information.
 The server may go down at any time either because of manual error or third party error. Mingjie and Vultr do not hold any responsibility to any of the information demaged because of the downtime. Use at your own risk. 
 Your IP address may not be completely safe. Others on te same SS server may br able to see your information. Again, use at your own risk.
+
 Documentation ©2017 Mingjie Jiang
